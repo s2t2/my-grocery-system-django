@@ -25,7 +25,7 @@ SECRET_KEY = 'rqsg$t%e4*7ty^kmh7g=fv40ol_j2vin4x1zz0uo(^to2xm615'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://polar-hamlet-46720.herokuapp.com/"]
+ALLOWED_HOSTS = ["polar-hamlet-46720.herokuapp.com"]
 
 
 # Application definition

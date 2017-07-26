@@ -1,1 +1,3 @@
 venv
+db.sqlite3
+my_grocery_system/__pycache__/
